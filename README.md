@@ -16,7 +16,7 @@ AI-Facts-Verification is an open-source project designed to support fact verific
 Available Documentation:
 
 📄 [Project Summary](https://github.com/cooltomgpt/AI-Facts-Verification/edit/main/README.md) – A general overview of AI-Facts-Verification.
-📄 [Full Technical Documentation](https://github.com/cooltomgpt/AI-Facts-Verification/edit/main/README.md) – Detailed explanation of AI processing, scoring, and implementation.
+📄 [[Full Technical Documentation](https://github.com/cooltomgpt/AI-Facts-Verification/blob/main/AI-Facts-Verification-Full-Documentation.pdf) – Detailed explanation of AI processing, scoring, and implementation.
 
 1. AI Content Verification Approach
 
